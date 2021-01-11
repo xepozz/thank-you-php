@@ -90,7 +90,6 @@ Signed,
 - Rio Astamal ([@rioastamal](https://github.com/rioastamal)), Loving PHP since 2003 and Cloud Computing Enthusiast, Indonesia
 - Robert Means ([@BoDonkey](https://github.com/BoDonkey)), Language Lover, USA
 - Rod Elias ([@chapeupreto](https://github.com/chapeupreto)), Backend Developer, Brazil
-- Roman Nikiforov ([@xrezus](https://github.com/xrezus)), PHP Developer, Belarus
 - Roman Pronskiy ([@pronskiy](https://github.com/pronskiy)), PMM, PHP enthusiast, Ukraine
 - Roshan Budhathoki ([@roshanbudhathoki](https://github.com/roshanbudhathoki)), Full Stack Developer, Nepal
 - Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
@@ -138,7 +137,7 @@ Signed,
 - Aleksandr Kvintilyanov ([@nowiko](https://github.com/mops1k)), Backend Developer, Russia
 - Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
 - George Zakharov ([@george-zakharov](https://github.com/george-zakharov)), PHP Backend Developer, Russia
-- Oleg Mifle ([@olegmifle](https://github.com/olegmifle)), Backend Developer from Saint Petersburg, Russia
+- Dmitry Derepko ([@xepozz](https://github.com/xepozz)), Just Dmitry 😉, Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
